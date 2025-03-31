@@ -75,5 +75,6 @@ debian/files
 *.substvars
 *.debhelper.log
 
-# Ignore archive files
+# Ignore additional files
 *.gz
+week02_autodiff/notMNIST_small
